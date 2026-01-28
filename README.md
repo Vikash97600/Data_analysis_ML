@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-  <bold><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"></bold>
   <h3 align="center" style="margin-top: -10px;">
     <code>🧮</code> Matrix Operations • <code>📈</code> Data Visualization • <code>🤖</code> Machine Learning
   </h3>
-  <bold><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"></bold>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
