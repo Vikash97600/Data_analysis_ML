@@ -116,7 +116,7 @@ Project/
 ## ⚙️ Installation & Usage  
 
 1️⃣ Clone the Repository  
- 
+ ```bash
 git clone https://github.com/your-username/data-analysis-tool.git
 cd data-analysis-tool
 
@@ -178,6 +178,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
