@@ -1,6 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Data%20Analysis%20%26%20Visualization%20Tool&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Matrix%20Operations%20|%20Data%20Visualization%20|%20Machine%20Learning&descAlignY=60" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&height=100&lines=📊+Data+Analysis+%26+Visualization+Tool;🧮+Matrix+Operations+%7C+📈+Data+Viz+%7C+🤖+Machine+Learning" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GUI-Tkinter-FF6F00?logo=windowsterminal" />
+  <img src="https://img.shields.io/badge/ML-Scikit_Learn-F7931E?logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/UI-Neumorphic-8A2BE2" />
+  <img src="https://img.shields.io/badge/Status-🚀_Active-success" />
+</p>
+
 
 # 📊 Data Analysis & Visualization Tool  
 
