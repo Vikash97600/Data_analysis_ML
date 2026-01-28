@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3c72&height=220&text=Data%20Analysis%20%26%20Visualization%20Tool&fontSize=38&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=100&lines=Data+Analysis+%26+Visualization+Tool;Matrix+Operations+%7C+Data+Visualization+%7C+Machine+Learning" alt="Typing SVG" />
 </p>
+
 
 # 📊 Data Analysis & Visualization Tool  
 
