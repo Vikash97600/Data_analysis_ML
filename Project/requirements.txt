@@ -1,0 +1,19 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+
+
+''' 
+Why these are needed:
+numpy: Handles all the underlying matrix calculations and numerical arrays.
+
+pandas: Used for loading CSV files and managing dataframes for visualization.
+
+matplotlib & seaborn: These power the graphical interface's charts, heatmaps, and plots.
+
+scikit-learn: Provides the Linear Regression model, data scaling, and performance metrics.
+
+'''
