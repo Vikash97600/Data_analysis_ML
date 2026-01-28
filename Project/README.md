@@ -95,6 +95,7 @@ Project/
 
 ```
 
+
 ## 📸 Application Screenshots
 
 ### 🏠 Main Dashboard
@@ -111,6 +112,8 @@ Project/
 
 
 ## 📸 Application Demo : 
+
+
 
 
 ## ⚙️ Installation & Usage  
@@ -133,6 +136,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 python gui_app.py
  ```
 
+
+
 📘 User Guide
 🔢 Matrix Operations
 
@@ -141,6 +146,8 @@ python gui_app.py
    • Input matrix data row-wise
 
    • The application validates dimensions before processing
+
+
 
 
 📊 Data Visualization
@@ -152,6 +159,8 @@ python gui_app.py
    • Select chart type and generate visuals instantly
 
 
+
+
 📉 Linear Regression
 
    • Ensure the dataset contains numerical features
@@ -161,11 +170,15 @@ python gui_app.py
    • Train the model and analyze predictions and residuals
 
 
+
+
 👤 Author
 
 Vikash Ramdarash Chaurasiya
 🎓 MCA Student
 🏫 Thakur Institute of Management Studies, Career Development & Research (TIMSCDR)
+
+
 
 
 🔗 References & Official Documentation
@@ -183,6 +196,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
