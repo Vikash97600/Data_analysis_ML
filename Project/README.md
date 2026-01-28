@@ -92,7 +92,9 @@ Project/
     ├── matrix_operations.png
     ├── data_visualization.png
     └── linear_regression.png
+```
 
+---
 
 
 ## 📸 Application Screenshots
@@ -108,6 +110,7 @@ Project/
 
 ### 🤖 Linear Regression & Predictions
 ![Linear Regression](screenshots/linear_regression.png)
+
 
 
 ## 📸 Application Demo : 
@@ -195,6 +198,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
