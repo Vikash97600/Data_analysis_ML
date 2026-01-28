@@ -17,6 +17,7 @@
 </p>
 
 
+
 A **professional-grade desktop application** built using **Python and Tkinter**, designed to combine **matrix computation, data analysis, visualization, and machine learning** into a single, powerful platform.  
 The application features a **modern neumorphic UI**, delivering an intuitive and visually appealing user experience.
 
