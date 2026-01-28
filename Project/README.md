@@ -78,8 +78,9 @@ Build and evaluate predictive models seamlessly:
 | Visualization        | Matplotlib, Seaborn          |
 -------------------------------------------------------
 
-## 📂 Project Structure  
+## 📂 Project Structure
 
+```text
 Project/
 │
 ├── gui_app.py             # Core application logic and GUI implementation
@@ -90,6 +91,7 @@ Project/
     ├── matrix_operations.png
     ├── data_visualization.png
     └── linear_regression.png
+
 
 
 
@@ -177,6 +179,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
