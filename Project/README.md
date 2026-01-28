@@ -139,8 +139,9 @@ python gui_app.py
  ```
 
 
+---
 
-📘 User Guide
+## 📘 User Guide
 🔢 Matrix Operations
 
    • Enter matrix dimensions first
@@ -172,7 +173,7 @@ python gui_app.py
    • Train the model and analyze predictions and residuals
 
 
-
+---
 
 👤 Author
 
@@ -181,7 +182,7 @@ Vikash Ramdarash Chaurasiya
 🏫 Thakur Institute of Management Studies, Career Development & Research (TIMSCDR)
 
 
-
+---
 
 🔗 References & Official Documentation
 
@@ -198,6 +199,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
