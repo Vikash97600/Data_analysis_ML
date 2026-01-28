@@ -116,17 +116,22 @@ Project/
 ## ⚙️ Installation & Usage  
 
 1️⃣ Clone the Repository  
- ```bash
+ ```text
 git clone https://github.com/your-username/data-analysis-tool.git
 cd data-analysis-tool
+```
 
 2️⃣ Install Dependencies
+ ```text
 ```bash 
 pip install numpy pandas matplotlib seaborn scikit-learn
+ ```
 
 3️⃣ Run the Application
+ ```text
 ```bash 
 python gui_app.py
+ ```
 
 📘 User Guide
 🔢 Matrix Operations
@@ -178,6 +183,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
