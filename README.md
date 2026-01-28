@@ -16,15 +16,6 @@
   </p>
 </p>
 
-# 📊 Data Analysis & Visualization Tool  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
-  <img src="https://img.shields.io/badge/GUI-Tkinter-orange" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green" />
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
-</p>
 
 A **professional-grade desktop application** built using **Python and Tkinter**, designed to combine **matrix computation, data analysis, visualization, and machine learning** into a single, powerful platform.  
 The application features a **modern neumorphic UI**, delivering an intuitive and visually appealing user experience.
