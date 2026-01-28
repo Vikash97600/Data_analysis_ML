@@ -80,11 +80,11 @@ Build and evaluate predictive models seamlessly:
 
 ## 📂 Project Structure  
 
-Project
+Project/
 │
-├── gui_app.py            # Core application logic and GUI implementation
-├── requirements.txt      # Project dependencies
-├── README.md             # Project documentation
+├── gui_app.py             # Core application logic and GUI implementation
+├── requirements.txt       # Project dependencies
+├── README.md              # Project documentation
 └── screenshots/
     ├── dashboard.png
     ├── matrix_operations.png
@@ -177,5 +177,6 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
