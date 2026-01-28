@@ -1,22 +1,23 @@
 <p align="center">
-  <div align="center">
-    <h1 align="center" style="font-size: 3rem; margin-bottom: 10px;">
-      📊 Data Analysis & Visualization Tool
-    </h1>
-    <p align="center" style="font-size: 1.2rem; color: #666; margin-top: 0;">
-      🧮 Matrix Operations | 📈 Data Visualization | 🤖 Machine Learning
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=python" />
-      <img src="https://img.shields.io/badge/NumPy-Array_Operations-013243?logo=numpy" />
-      <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas" />
-      <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=python" />
-      <img src="https://img.shields.io/badge/Scikit_Learn-ML-F7931E?logo=scikitlearn" />
-    </p>
-  </div>
+  <h1 align="center">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40">
+    📊 Data Analysis & Visualization Tool
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40">
+  </h1>
+  
+  <h3 align="center" style="color: #555;">
+    🧮 Matrix Computation | 📈 Advanced Visualization | 🤖 ML Predictions
+  </h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
+    <img src="https://img.shields.io/github/license/username/repo?color=blue" alt="License" />
+    <img src="https://img.shields.io/badge/Python-3.x-%233776AB?logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/UI-Neumorphic-8A2BE2" alt="UI" />
+  </p>
+  
+  <hr width="50%">
 </p>
-
 
 # 📊 Data Analysis & Visualization Tool  
 
