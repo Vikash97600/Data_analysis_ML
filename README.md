@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Data_Analysis_&_Visualization_Tool-blue?style=for-the-badge&logo=databricks&logoColor=white" height="60" alt="Data Analysis Tool" />
-  </a>
+  <div align="center" style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 30px; border-radius: 10px; margin: 20px 0;">
+    <h1 style="color: white; font-size: 38px; margin: 0; padding: 10px;">
+      Data Analysis & Visualization Tool
+    </h1>
+    <p style="color: #e0e0e0; font-size: 20px; margin: 10px 0 0 0;">
+      Matrix Operations | Data Visualization | Machine Learning
+    </p>
+  </div>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Matrix_Operations-1e3c72?style=flat-square" alt="Matrix Operations" />
-  <img src="https://img.shields.io/badge/Data_Visualization-2a5298?style=flat-square" alt="Data Visualization" />
-  <img src="https://img.shields.io/badge/Machine_Learning-3b5998?style=flat-square" alt="Machine Learning" />
-</p>
 
 # 📊 Data Analysis & Visualization Tool  
 
