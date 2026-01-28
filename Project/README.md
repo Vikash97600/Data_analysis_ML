@@ -32,18 +32,18 @@ Perform high-performance matrix computations powered by **NumPy**, including:
 ### 📈 Advanced Data Visualization  
 Generate meaningful insights through a dedicated visualization module:
 
-**Statistical Visuals**
-- Histograms  
-- Box Plots  
-- Heatmaps (Correlation Matrix)  
+-**Statistical Visuals**
+ - Histograms  
+ - Box Plots  
+ - Heatmaps (Correlation Matrix)  
 
-**Relational Visuals**
-- Scatter Plots  
-- Line Charts  
+-**Relational Visuals**
+ - Scatter Plots  
+ - Line Charts  
 
-**Categorical Visuals**
-- Bar Charts  
-- Pie Charts  
+-**Categorical Visuals**
+ - Bar Charts  
+ - Pie Charts  
 
 The tool intelligently detects **numeric and categorical columns** to ensure accurate plotting.
 
@@ -197,6 +197,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
