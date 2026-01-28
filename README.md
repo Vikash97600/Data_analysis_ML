@@ -1,13 +1,4 @@
-<p align="center">
-  <div align="center" style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 30px; border-radius: 10px; margin: 20px 0;">
-    <h1 style="color: white; font-size: 38px; margin: 0; padding: 10px;">
-      Data Analysis & Visualization Tool
-    </h1>
-    <p style="color: #e0e0e0; font-size: 20px; margin: 10px 0 0 0;">
-      Matrix Operations | Data Visualization | Machine Learning
-    </p>
-  </div>
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&text=Data%20Analysis%20Tool)
 
 
 # 📊 Data Analysis & Visualization Tool  
