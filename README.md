@@ -1,15 +1,20 @@
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&height=100&lines=📊+Data+Analysis+%26+Visualization+Tool;🧮+Matrix+Operations+%7C+📈+Data+Viz+%7C+🤖+Machine+Learning" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GUI-Tkinter-FF6F00?logo=windowsterminal" />
-  <img src="https://img.shields.io/badge/ML-Scikit_Learn-F7931E?logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/UI-Neumorphic-8A2BE2" />
-  <img src="https://img.shields.io/badge/Status-🚀_Active-success" />
+  <div align="center">
+    <h1 align="center" style="font-size: 3rem; margin-bottom: 10px;">
+      📊 Data Analysis & Visualization Tool
+    </h1>
+    <p align="center" style="font-size: 1.2rem; color: #666; margin-top: 0;">
+      🧮 Matrix Operations | 📈 Data Visualization | 🤖 Machine Learning
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=python" />
+      <img src="https://img.shields.io/badge/NumPy-Array_Operations-013243?logo=numpy" />
+      <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=python" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-ML-F7931E?logo=scikitlearn" />
+    </p>
+  </div>
 </p>
 
 
