@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=100&lines=Data+Analysis+%26+Visualization+Tool;Matrix+Operations+%7C+Data+Visualization+%7C+Machine+Learning" alt="Typing SVG" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Data_Analysis_&_Visualization_Tool-blue?style=for-the-badge&logo=databricks&logoColor=white" height="60" alt="Data Analysis Tool" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Matrix_Operations-1e3c72?style=flat-square" alt="Matrix Operations" />
+  <img src="https://img.shields.io/badge/Data_Visualization-2a5298?style=flat-square" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3b5998?style=flat-square" alt="Machine Learning" />
+</p>
 
 # 📊 Data Analysis & Visualization Tool  
 
