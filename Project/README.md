@@ -128,13 +128,11 @@ cd data-analysis-tool
 
 2️⃣ Install Dependencies
  ```text
-```bash 
 pip install numpy pandas matplotlib seaborn scikit-learn
  ```
 
 3️⃣ Run the Application
  ```text
-```bash 
 python gui_app.py
  ```
 
@@ -199,6 +197,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
