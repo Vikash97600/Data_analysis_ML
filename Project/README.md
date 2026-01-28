@@ -93,8 +93,7 @@ Project/
     └── linear_regression.png
 
 
-
-
+```
 
 ## 📸 Application Screenshots
 
@@ -179,6 +178,7 @@ Vikash Ramdarash Chaurasiya
    • Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
    • Seaborn Documentation: https://seaborn.pydata.org/
+
 
 
 
