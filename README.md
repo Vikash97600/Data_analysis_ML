@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:232526,100:414345&height=180&section=header&text=Data%20Analysis%20Desktop%20Application&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Vikash%20R.%20Chaurasiya%20|%20Python%20Developer&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Python%20Data%20Analysis%20%26%20Visualization&fontSize=36&fontAlignY=40&desc=Vikash%20R.%20Chaurasiya%20%E2%80%A2%20MCA%20Student%20%E2%80%A2%20Machine%20Learning%20Project&descAlignY=68" />
 </p>
+
 
 # 📊 Data Analysis & Visualization Tool  
 
