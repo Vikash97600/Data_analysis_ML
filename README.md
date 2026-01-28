@@ -1,22 +1,19 @@
 <p align="center">
-  <h1 align="center">
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40">
-    📊 Data Analysis & Visualization Tool
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40">
-  </h1>
-  
-  <h3 align="center" style="color: #555;">
-    🧮 Matrix Computation | 📈 Advanced Visualization | 🤖 ML Predictions
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=📊%20Data%20Analysis%20Tool&fontSize=40&fontColor=ffffff&animation=scaleIn&reversal=false" />
+</p>
+
+<p align="center">
+  <h3 align="center" style="margin-top: -10px;">
+    <code>🧮</code> Matrix Operations • <code>📈</code> Data Visualization • <code>🤖</code> Machine Learning
   </h3>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
-    <img src="https://img.shields.io/github/license/username/repo?color=blue" alt="License" />
-    <img src="https://img.shields.io/badge/Python-3.x-%233776AB?logo=python" alt="Python" />
-    <img src="https://img.shields.io/badge/UI-Neumorphic-8A2BE2" alt="UI" />
+    <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tkinter-GUI-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </p>
-  
-  <hr width="50%">
 </p>
 
 # 📊 Data Analysis & Visualization Tool  
