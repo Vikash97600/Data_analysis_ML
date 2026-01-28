@@ -85,6 +85,8 @@ Build and evaluate predictive models seamlessly:
 
 ---
 
+## 📸 Application Demo : https://github.com/user-attachments/assets/e74e3f78-5428-4744-bd41-4ee9c45e5ac3
+
 ## 📂 Project Structure  
 
 ```text
@@ -117,9 +119,6 @@ Project/
 ### 🤖 Linear Regression & Predictions
 ![Linear Regression](Project/screenshots/linear_regression.png)
 
-
-
-## 📸 Application Demo : https://github.com/user-attachments/assets/e74e3f78-5428-4744-bd41-4ee9c45e5ac3
 
 
 
