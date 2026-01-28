@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=📊%20Data%20Analysis%20Tool&fontSize=40&fontColor=ffffff&animation=scaleIn&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=📊%20Data%20Analysis%20Tool&fontSize=40&fontColor=ffffff&animation=scaleIn&reversal=false" /><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40">
 </p>
 
 <p align="center">
