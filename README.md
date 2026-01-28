@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Data%20Analysis%20%26%20Visualization%20Tool&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Matrix%20Operations%20|%20Data%20Visualization%20|%20Machine%20Learning&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Data%20Analysis%20%26%20Visualization%20Tool&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Matrix%20Operations%20%7C%20Data%20Visualization%20%7C%20Machine%20Learning&descAlignY=60&descSize=24&animation=fadeIn" />
 </p>
-
-
 
 
 
